@@ -1,0 +1,36 @@
+
+div.Container{
+    width:600px;
+    margin:auto;
+}
+div.Post img{
+    width: 100%;
+}
+.ICON{
+    text-align: left;
+    font-size: 2rem;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+}
+.Left-Header{
+    display:flex;
+    text-align: left;
+}
+
+.Buttons{
+   display: flex;
+   justify-content: space-between;
+}
+
+.Container{ 
+    width:600px;
+    margin:auto;
+}
+
+.Left-Buttons{
+    text-align: left;
+    display: flex;
+    
+}
